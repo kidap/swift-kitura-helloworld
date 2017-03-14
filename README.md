@@ -154,6 +154,18 @@ Generate the Xcode project:
 $ swift package generate-xcodeproj
 ```
 
+Your **kituraHelloworld** directory should look like this:
+
+```
+├── kituraHelloWorld
+├── Package.swift
+├── Packages
+├── Sources
+│   └── main.swift
+├── Tests
+└──kituraHelloworld.xcodeproj
+```
+
 Open the generated project in Xcode.
 
 Change the build scheme to your executable:
