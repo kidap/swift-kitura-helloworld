@@ -2,7 +2,7 @@
 
 Learn how to create a simple Kitura web application, add logging, and generate an Xcode project.
 
-# Kitura
+![Kitura Logo](docs/kitura-logo.png)
 
 A high performance and simple to use web framework for building modern Swift applications.
  * Github: [IBM-Swift/Kitura](https://github.com/IBM-Swift/Kitura)
