@@ -74,7 +74,7 @@ $ swift build
 Now run your new web application:
 
 ```
-$ .build/debug/myFirstProject
+$ .build/debug/kituraHelloworld
 ```
 
 Open your browser and visit http://localhost:8090.
@@ -131,7 +131,7 @@ $ swift build
 Now run your new web application:
 
 ```
-$ .build/debug/myFirstProject
+$ .build/debug/kituraHelloworld
 ```
 
 Open your browser and visit http://localhost:8090.
