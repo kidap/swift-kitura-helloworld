@@ -188,6 +188,12 @@ Open your browser and visit http://localhost:8090.
 
 # Troubleshooting
 
+Issues with `swift build`, make sure swift is in your `PATH`:
+
+```
+$ export PATH=<path to swift installation>/usr/bin/:$PATH
+```
+
 # License
 [Apache 2.0](LICENSE)
 
