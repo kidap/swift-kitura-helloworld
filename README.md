@@ -77,9 +77,13 @@ Now run your new web application:
 $ .build/debug/kituraHelloworld
 ```
 
+If prompted, click Allow:
+
+![Network Connection Permission](docs/swift-connection-prompt.png)
+
 Open your browser and visit http://localhost:8090.
 
-***Insert Screenshot***
+![Browser Helloworld](docs/swift-helloworld.png)
 
 # Add Logging
 
@@ -134,11 +138,15 @@ Now run your new web application:
 $ .build/debug/kituraHelloworld
 ```
 
+If prompted, click Allow:
+
+![Network Connection Permission](docs/swift-connection-prompt.png)
+
 Open your browser and visit http://localhost:8090.
 
 You will see logging output in your console:
 
-***Insert screenshot***
+![Console Output](docs/swift-logging.png)
 
 # Generate Xcode Project (MacOS Only)
 
