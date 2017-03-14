@@ -2,7 +2,13 @@
 
 Learn how to create a simple Kitura web application, add logging, and generate an Xcode project.
 
-Steps
+# Kitura
+
+A high performance and simple to use web framework for building modern Swift applications.
+ * Github: [IBM-Swift/Kitura](https://github.com/IBM-Swift/Kitura)
+ * Find this tutorial and more at www.kitura.io!
+
+# Steps
 
 1. [Prerequisites](#1-prerequisites)
 2. [Getting Started](#2-getting-started)
@@ -205,6 +211,3 @@ $ export PATH=<path to swift installation>/usr/bin/:$PATH
 
 # License
 [Apache 2.0](LICENSE)
-
-# Credits
-Find this tutorial and more at www.kitura.io!
