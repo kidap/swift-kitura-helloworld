@@ -2,11 +2,18 @@
 
 Learn how to create a simple Kitura web application, add logging, and generate an Xcode project.
 
-# Prerequisites
+Steps
+
+1. [Prerequisites](#1-prerequisites)
+2. [Getting Started](#2-getting-started)
+3. [Add Logging](#3-add-logging)
+4. [Generate Xcode Project](#4-generate-xcode-project)
+
+# 1. Prerequisites
 
 Install swift on your system, see [swift-install](https://github.com/IBM/swift-install).
 
-# Getting Started
+# 2. Getting Started
 
 Create a new directory for your project:
 
@@ -85,7 +92,7 @@ Open your browser and visit http://localhost:8090.
 
 ![Browser Helloworld](docs/swift-helloworld.png)
 
-# Add Logging
+# 3. Add Logging
 
 Add HeliumLogger as a dependency of your application in **Package.swift**:
 
@@ -148,7 +155,9 @@ You will see logging output in your console:
 
 ![Console Output](docs/swift-logging.png)
 
-# Generate Xcode Project (MacOS Only)
+# 4. Generate Xcode Project
+
+***Note: MacOS Only***
 
 Navigate to your **kituraHelloworld** directory:
 
