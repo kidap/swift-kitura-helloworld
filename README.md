@@ -1,6 +1,6 @@
 # swift-kitura-helloworld
 
-Learn how to create a simple Kitura web application, add logging, and generate an Xcode project.
+Learn how to create a simple Kitura web application, add logging, and generate an Xcode project. This tutorial will take approximately 5 minutes to complete. You should complete the prerequisites before starting this tutorial.
 
 ![Kitura Logo](docs/kitura-logo.png)
 
