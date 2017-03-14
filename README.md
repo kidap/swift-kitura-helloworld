@@ -178,11 +178,11 @@ Open the generated project in Xcode.
 
 Change the build scheme to your executable:
 
-**Insert Screenshot**
+![Xcode Scheme Exec](docs/swift-xcode-exe.png)
 
 Click Run.
 
-**Insert Screenshot**
+![Xcode Rum](docs/swift-xcode-run.png)
 
 Open your browser and visit http://localhost:8090.
 
